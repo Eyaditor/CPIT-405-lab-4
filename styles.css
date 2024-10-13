@@ -1,0 +1,29 @@
+        body{
+            text-align: center;
+        }
+
+        .order{
+            padding: 1%;
+            display: inline-block;
+            text-align: left;
+        }
+
+        .order label,
+        .order input,
+        .order textarea,
+        .order button{
+            display: block;
+            width: 100%;
+            margin: 10px;
+        }
+
+        .order textarea{
+            padding: 8px;
+        }
+
+        .submitt{
+            padding: 10px;
+            background-color: black;
+            color: white;
+            border: none;
+        }
